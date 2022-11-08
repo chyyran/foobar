@@ -1,3 +1,6 @@
 [submodule "foobaricons"]
 	path = foobaricons
 	url = https://github.com/chyyran/foobaricons
+[submodule "soundcloud-fb2k-waveform-seekbar"]
+	path = soundcloud-fb2k-waveform-seekbar
+	url = https://github.com/chyyran/soundcloud-fb2k-waveform-seekbar
