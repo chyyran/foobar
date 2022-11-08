@@ -1,0 +1,3 @@
+[submodule "foobaricons"]
+	path = foobaricons
+	url = https://github.com/chyyran/foobaricons

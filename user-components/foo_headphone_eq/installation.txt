@@ -1,0 +1,15 @@
+INSTALLATION
+
+Don't unzip the downloaded zip file.
+
+Step 1: Open the foobar2000 preferences dialog (click File > Preferences or key CTRL+P).
+
+Step 2: Go to the Components page.
+
+Step 3: Click the "Install..." button and select the component archive, or simply drag it to the list.
+
+Step 4: Press "OK", you will be prompted to restart foobar2000 in order to load the newly installed component. 
+
+Step 5: Click File > Preferences > Playback > DSP Manager, then select "MathAudio Headphone EQ" in the right pane and click the right-to-left arrow to activate it. After that click the "Configure selected" button.
+
+Step 6: Click the "Help" button and follow the instruction.
